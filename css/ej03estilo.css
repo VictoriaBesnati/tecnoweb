@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Poiret+One&display=swap');
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+h1,h2,h3,h4{
+  font-family: 'Poiret One', cursive;
+}
+a, strong{
+  color: red;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+  text-decoration: line-through;
+}
+.card{
+  margin-top: 20px;
+}
+.video{
+  padding: 20px;
+}

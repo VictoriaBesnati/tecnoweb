@@ -1,0 +1,52 @@
+body{
+  background-image: url(../img05/fondo.jpg);
+}
+a{
+  color: #aa00ff;
+}
+.centro{
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 24px;
+}
+.centro2{
+  text-align: center;
+}
+.imagen{
+  padding-left: 20px;
+}
+.imagen2{
+  display:block;
+  margin:auto;
+}
+.canvas{
+  width: 100%;
+  height: auto;
+}
+.cuadrado{
+  border-color: #4a148c;
+  border: 50px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #ba68c8;
+}
+.flecha{
+  border: 50px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: #ba68c8;
+}
+/* SCROLL */
+.simplescrollup__button {
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  transition: 1s all;
+  z-index: 10000;
+}
+.simplescrollup__button--show {
+  transform: translateX(0);
+}
+.simplescrollup__button--hide {
+  transform: translateX(100px);
+}

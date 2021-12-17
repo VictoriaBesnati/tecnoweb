@@ -1,0 +1,18 @@
+body{
+}
+h1{
+  margin-top: 150px;
+}
+.imagen{
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+p, ul, li, cite, a, h4, h3, h2, button{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.video{
+  margin: 20px;
+}

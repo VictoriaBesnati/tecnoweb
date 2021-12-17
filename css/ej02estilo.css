@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&family=Noto+Sans+Mono:wght@600&display=swap');
+body{
+  font-family: 'Noto Sans Mono', monospace;
+}
+h1,h2,h3,h4{
+  font-family: 'Domine', serif;
+  font-size: 20px;
+}
+h1,h4{
+  text-decoration: underline;
+  font-size: 28px;
+}
+p, button, a, li, ul{
+  font-size: 14px;
+    font-family: 'Noto Sans Mono', monospace;
+}
+cite{
+  color: black;
+}
